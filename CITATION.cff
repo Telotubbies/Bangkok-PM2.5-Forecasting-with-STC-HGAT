@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "Bangkok PM2.5 Forecasting with STC-HGAT"
+abstract: "Multi-horizon air quality forecasting system for Bangkok using Spatio-Temporal Correlation Hypergraph Attention Network with advanced deep learning techniques."
+authors:
+  - family-names: "Bunyhai"
+    given-names: "Natthamon"
+    affiliation: "King Mongkut's Institute of Technology Ladkrabang"
+    orcid: ""
+  - family-names: "Ratthatham"
+    given-names: "Supawich"
+    email: "66010827@kmitl.ac.th"
+    affiliation: "King Mongkut's Institute of Technology Ladkrabang"
+    orcid: ""
+repository-code: "https://github.com/Telotubbies/Bangkok-PM2.5-Forecasting-with-STC-HGAT"
+url: "https://bkk-airguard.vercel.app"
+keywords:
+  - air-quality-prediction
+  - pm2.5-forecasting
+  - deep-learning
+  - graph-neural-networks
+  - hypergraph-attention
+  - spatio-temporal-modeling
+  - bangkok
+  - environmental-monitoring
+  - pytorch
+  - time-series-forecasting
+license: "Educational Use"
+version: "1.0.0"
+date-released: "2026-04-04"
+references:
+  - type: article
+    authors:
+      - family-names: "Yang"
+        given-names: "S."
+      - family-names: "Peng"
+        given-names: "L."
+    title: "Spatio-Temporal Correlation Hypergraph Attention Network for Air Quality Prediction"
+    year: 2024
+    url: "https://www.researchgate.net/figure/The-framework-of-the-model-STC-HGAT_fig1_379917501"
