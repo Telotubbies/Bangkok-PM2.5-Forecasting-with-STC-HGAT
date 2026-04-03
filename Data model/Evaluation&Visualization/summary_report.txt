@@ -1,0 +1,40 @@
+================================================================================
+STC-HGAT MODEL EVALUATION REPORT (Full Pipeline)
+================================================================================
+
+Evaluation Date: 2026-03-31 01:05:07
+Model: Bangkok PM2.5 Forecasting STC-HGAT
+Total Samples: 1166
+Stations: 79
+
+================================================================================
+OVERALL PERFORMANCE
+================================================================================
+
++1 day Forecast:
+  MAE:  6.5865 µg/m³
+  RMSE: 9.9407 µg/m³
+  R²:   0.8710
+  Mean Error: -1.8041 µg/m³
+  Std Error:  9.7756 µg/m³
+  Min Error:  -63.8573 µg/m³
+  Max Error:  51.4903 µg/m³
+
++3 day Forecast:
+  MAE:  9.6501 µg/m³
+  RMSE: 14.5726 µg/m³
+  R²:   0.7225
+  Mean Error: -1.7398 µg/m³
+  Std Error:  14.4684 µg/m³
+  Min Error:  -79.5771 µg/m³
+  Max Error:  58.2900 µg/m³
+
++7 day Forecast:
+  MAE:  14.3296 µg/m³
+  RMSE: 21.5249 µg/m³
+  R²:   0.3943
+  Mean Error: -1.6442 µg/m³
+  Std Error:  21.4620 µg/m³
+  Min Error:  -126.3238 µg/m³
+  Max Error:  80.8396 µg/m³
+
